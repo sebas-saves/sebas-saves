@@ -1,5 +1,5 @@
 # 💫 About Me:
-At the moment I am currently working on a couple of projects...<br><br>-🤖Monarc Mobile with live tracking supported by A.I. for a large logistics firm out of Texas <br>-🎹A web app Oscilloscope that is reactive to any video song while streaming<br>-🥳An event planning eCommerce site for my wife's passion project<br><br>What I'd like to learn...<br>-🐳Better Orchestration using Kubernetes<br>-🔏Pen testing <br>-👨🏽‍💻Homelabbing<br><br>Favorite quote...<br><br>"Your body is not a temple, it's an amusement park. Enjoy the ride." - Anthony Bourdain.
+At the moment I am currently working on a couple of projects...<br><br>-📡LoRa messaging via smartphone via magsafe attachment.  <br>-🎹A web app Oscilloscope that is reactive to any video song while streaming<br>-🥳An event planning eCommerce site for my wife's passion project<br><br>What I'd like to learn...<br>-🐳Better Orchestration using Kubernetes<br>-🔏Pen testing <br>-👨🏽‍💻Homelabbing<br><br>Favorite quote...<br><br>"Your body is not a temple, it's an amusement park. Enjoy the ride." - Anthony Bourdain.
 
 
 ## 🌐 Socials:
