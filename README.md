@@ -1,6 +1,5 @@
 # 💫 About Me:
-At the moment I am currently working on a couple of projects...<br><br>-📡LoRa messaging via smartphone via magsafe attachment.  <br>-🎹A web app Oscilloscope that is reactive to any video song while streaming<br>-🥳An event planning eCommerce site for my wife's passion project<br><br>What I'd like to learn...<br>-🐳Better Orchestration using Kubernetes<br>-🔏Pen testing <br>-👨🏽‍💻Homelabbing<br><br>Favorite quote...<br><br>"Your body is not a temple, it's an amusement park. Enjoy the ride." - Anthony Bourdain.
-
+At the moment I am currently working on a couple of projects...<br><br>-📡LoRa messaging via smartphone via magsafe attachment.  <br>-🎹A web app Oscilloscope that is reactive to any video song while streaming<br>-🥳An event planning eCommerce site for my wife's passion project<br><br>What I'd like to learn...<br>-🐳Better Orchestration using Kubernetes<br>-🔏Pen testing <br>-👨🏽‍💻Homelabbing<br><br>Favorite quote...<br><br>“We cannot direct the wind, but we can adjust the sails.” — Dolly Parton
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:5301843@gmail.com) 
